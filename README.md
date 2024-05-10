@@ -11,11 +11,11 @@ Este proyecto utiliza Maven para ejecutar escenarios Gherkin que están etiqueta
 
 ## Configuración del Proyecto
 
-Asegúrate de tener instalado Java 11 y Maven en tu sistema. Este proyecto está desarrollado utilizando IntelliJ IDEA, un entorno de desarrollo integrado (IDE) popular para Java.
+Tener instalado Java 11 y Maven en tu sistema. Este proyecto está desarrollado utilizando IntelliJ IDEA, un entorno de desarrollo integrado (IDE) popular para Java.
 
-1. Clona este repositorio en tu máquina local.
-2. Abre el proyecto en IntelliJ IDEA.
-3. Configura tu entorno de desarrollo para utilizar Java 11 y Maven.
+1. Clonar este repositorio en tu máquina local.
+2. Abrir el proyecto en IntelliJ IDEA.
+3. Configurar tu entorno de desarrollo para utilizar Java 11 y Maven.
 
 ## Ejecución de Escenarios Gherkin
 
